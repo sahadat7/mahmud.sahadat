@@ -1,0 +1,41 @@
+body{
+  font-size: 15px;
+  margin: 0px;
+}
+#ms{
+  color: blue;
+}
+#sm{
+  color: salmon;
+}
+#mm{
+  color: fuchsia;
+}
+section{
+  display: flex;
+}
+.boro{
+  width: 50%;
+  margin: 20px;
+}
+.coto img{
+  width: 100%; height: 100%;
+}
+#hire{
+  color: white;
+  background-color: blue;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.bbbb{
+  text-decoration: none;
+}
+#top{
+  background-image: url(top.jpg);
+  background-repeat: no-repeat;
+  background-size: 150px 150px;
+  
+}
+body span{
+  margin: 0px;
+}
