@@ -46,3 +46,28 @@ body span{
   background-position: right;
   background-size: 90px 300px;
 }
+#ar{
+  margin: 40px;
+  background-color: white;
+  border-left: 5px solid hotpink;
+  box-shadow: 5px 5px 30px 10px gray;
+}
+#ra{
+  margin: 40px;
+  background-color: white;
+  border-left: 5px solid turquoise;
+  box-shadow: 5px 5px 30px 10px gray;
+}
+#ru{
+  color: coral;
+}
+#ur{
+  color: coral;
+}
+#down{
+  background-image: url(down.jpg);
+  background-repeat: no-repeat;
+  background-size: 80px;
+  background-position: left;
+  
+}
